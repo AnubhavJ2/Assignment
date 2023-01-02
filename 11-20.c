@@ -1,3 +1,5 @@
+    #include <stdio.h>
+    int main(){
     int Que;
     printf(" Que 11: Sum of digits of a number.\n");
     printf(" Que 12: Sum of N natural numbers.\n");
@@ -187,3 +189,5 @@
         return 0;          
         }
     }
+    return 0:
+        )
